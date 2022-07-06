@@ -1,0 +1,17 @@
+[
+  {
+    "libraryIdentifier" : "acc57b9e5d4520cd6dfd589dc5042d98",
+    "format" : "model",
+    "displayName" : "flower2.usdz"
+  },
+  {
+    "libraryIdentifier" : "5ec46cb2ccb65e729cb7289bc379012e",
+    "format" : "model",
+    "displayName" : "ShowerBasin.usdz"
+  },
+  {
+    "libraryIdentifier" : "f7c63ec4db91620f9255111682fdae22",
+    "format" : "model",
+    "displayName" : "WaterDroplet.usdz"
+  }
+]
